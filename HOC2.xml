@@ -9,11 +9,8 @@
       <block type="movement_forward" id="10"></block>
     </statement>
     <next>
-      <block type="movement_left" id="52">
-        <next>
-          <block type="movement_forward" id="121"></block>
-        </next>
-      </block>
+      <block type="movement_left" id="52"></block>
     </next>
   </block>
+  <block type="movement_forward" id="121" x="121" y="167"></block>
 </xml>
